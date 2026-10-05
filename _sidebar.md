@@ -8,24 +8,15 @@
     - [1010nishant](/templates/1010nishant.md)
     - [1999azzar](/templates/1999azzar.md)
     - [10kartik](/templates/10kartik.md)
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
   - 7
     - [7oSkaaa](/templates/7oSkaaa.md)
-  - 8
-  - 9
   - A
 
     - [aaditkamat](/templates/aaditkamat.md)
     - [aastha12](/templates/aastha12.md)
     - [aayushi-droid](/templates/aayushi-droid.md)
-    - [abdoachhoubi](/templates/abdoachhoubi.md)
-    - [abhigyantrips](/templates/AbhigyanTrips.md)
     - [abdoachhoubi](/templates/AbdoAchhoubi.md)
-    - [abhigyantrips](/templates/abhigyantrips.md)
+    - [abhigyantrips](/templates/AbhigyanTrips.md)
     - [abhinavdubeyad9](/templates/abhinavdubeyad9.md)
     - [abhisheknaiidu](/templates/abhisheknaiidu.md)
     - [ABSphreak](/templates/ABSphreak.md)
@@ -77,11 +68,20 @@
     - [avneesh0612](/templates/avneesh0612.md)
     - [AVS1508](/templates/AVS1508.md)
     - [azizovrafael](/templates/azizovrafael.md)
-    - [al3sha9](/templates/al3sha9.md)
+    - [al3sha9](/templates/al3sha0.md)
     - [Aneal07](/templates/Aneal07.md)
     - [ashu-guo](/templates/ashu-guo.md)
+    - [AdityaSunitKanoiProdileReadme](/templates/AdityaSunitKanoiProdileReadme.md)
+    - [ahmadpiracha](/templates/ahmadpiracha.md)
+    - [arjuncvinod](/templates/arjuncvinod.md)
+    - [AbdallahElsawy](/templates/AbdallahElsawy.md)
+    - [Abdalrahman-Alhamod](/templates/Abdalrahman-Alhamod.md)
+    - [abraham-kwizera](/templates/abraham-kwizera.md)
+    - [adilrahman](/templates/adilrahman.md)
+    - [Anton-dev3306](/templates/Anton-dev3306.md)
+    - [Aurorp1g](/templates/Aurorp1g.md)
   - B
-    - [bindian0509](/templates/bindian0509)
+    - [bindian0509](/templates/bindian0509.md)
     - [b4dcat404](/templates/b4dcat404.md)
     - [BaseMax](/templates/BaseMax.md)
     - [Berkeli](/templates/Berkeli.md)
@@ -101,6 +101,10 @@
     - [bugahontas](/templates/bugahontas.md)
     - [brightkut](/templates/brightkut.md)
     - [beyzaerf](/templates/beyzaerf.md)
+    - [best_template_ever](/templates/best_template_ever.md)
+    - [BlackDoubleB](/templates/BlackDoubleB.md)
+    - [boriscr](/templates/boriscr.md)
+    - [Brandon-E-Ramirez](/templates/Brandon-E-Ramirez.md)
   - C
     - [Candida18](/templates/Candida18.md)
     - [caneco](/templates/caneco.md)
@@ -117,6 +121,8 @@
     - [CodeWhiteWeb](/templates/CodeWhiteWeb.md)
     - [coding-ai](/templates/coding-ai.md)
     - [CyrisXD](/templates/CyrisXD.md)
+    - [chrix40](/templates/chrix40.md)
+    - [CtorW](/templates/CtorW.md)
   - D
     - [Daenges](/templates/Daenges.md)
     - [danieldanielecki](/templates/danieldanielecki.md)
@@ -142,6 +148,9 @@
     - [donPabloNow](/templates/donPabloNow.md)
     - [Dum6o](/templates/Dum6o.md)
     - [durgeshsamariya](/templates/durgeshsamariya.md)
+    - [Danushka2](/templates/Danushka2.md)
+    - [dzenis-h](/templates/dzenis-h.md)
+    - [dot-D69](/templates/dot-D69.md)
   - E
     - [ebrugulec](/templates/ebrugulec.md)
     - [edgycoder](/templates/edgycoder.md)
@@ -150,7 +159,9 @@
     - [ElioChiu](/templates/ElioChiu.md)
     - [EmmadiDivyaSrujana](/templates/EmmadiDivyaSrujana.md)
     - [emrahsariboz](/templates/emrahsariboz.md)
-    - [eshitaban18](/templates/eshitaban18.md)
+    - [elverdavid-dev](/templates/elverdavid-dev.md)
+    - [esadakman](/templates/esadakman.md)
+    - [eyyMinda](/templates/eyyMinda.md)
   - F
     - [FahimFBA](/templates/FahimFBA.md)
     - [federicocomoglio](/templates/federicocomoglio.md)
@@ -160,11 +171,14 @@
     - [filiptronicek](/templates/filiptronicek.md)
     - [francojimenezcopati](/templates/francojimenezcopati.md)
     - [furkandeveloper](/templates/furkandeveloper.md)
+    - [funatsuya](/templates/funatsuya.md)
   - G
     - [gabrlcj](/templates/gabrlcj.md)
     - [garbinmarcelo](/templates/garbinmarcelo.md)
     - [gkhan205](/templates/gkhan205.md)
     - [guilyx](/templates/guilyx.md)
+    - [GovindSingh9447](/templates/GovindSingh9447.md)
+    - [GamerRukky](/templates/GamerRukky.md)
   - H
     - [halfrost](/templates/halfrost.md)
     - [harshkumarkhatri](/templates/harshkumarkhatri.md)
@@ -181,6 +195,9 @@
     - [hungpham3112](/templates/hungpham3112.md)
     - [huiishan99](/templates/huiishan99.md)
     - [HsiangNianian](/templates/HsiangNianian.md)
+    - [Hanseeka-Dhingana](/templates/Hanseeka-Dhingana.md)
+    - [hema-priya-vadivel](/templates/hema-priya-vadivel.md)
+    - [HMAHD](/templates/HMAHD.md)
   - I
     - [I-am-vishalmaurya](/templates/I-am-vishalmaurya.md)
     - [iahsanujunda](/templates/iahsanujunda.md)
@@ -217,6 +234,9 @@
     - [JoykishanSharma](/templates/JoykishanSharma.md)
     - [jrmydix](/templates/jrmydix.md)
     - [jy1263](/templates/jy1263.md)
+    - [JonasBlx](/templates/JonasBlx.md)
+    - [JuhiPathak23](/templates/JuhiPathak23.md)
+    - [julioruedass](/templates/julioruedass.md)
   - K
     - [kaburelabs](/templates/kaburelabs.md)
     - [kaizoku-oh](/templates/kaizoku-oh.md)
@@ -233,6 +253,10 @@
     - [kmhmubin](/templates/kmhmubin.md)
     - [KunalRaghav](/templates/KunalRaghav.md)
     - [krishnadev7](/templates/krishnadev7.md)
+    - [kad-f](/templates/kad-f.md)
+    - [kajalkumari23](/templates/kajalkumari23.md)
+    - [khot-aditya](/templates/khot-aditya.md)
+    - [Kibwana](/templates/Kibwana.md)
   - L
     - [LachlanDev](/templates/LachlanDev.md)
     - [lauragift21](/templates/lauragift21.md)
@@ -240,6 +264,9 @@
     - [lia0wang](/templates/lia0wang.md)
     - [linitio](/templates/linitio.md)
     - [lostgirljourney](/templates/lostgirljourney.md)
+    - [lebathang](/templates/lebathang.md)
+    - [LexxFade](/templates/LexxFade.md)
+    - [LulietLyan](/templates/LulietLyan.md)
   - M
     - [M0nica](/templates/M0nica.md)
     - [MaartenGr](/templates/MaartenGr.md)
@@ -276,6 +303,9 @@
     - [mubin-khalid](/templates/mubin-khalid.md)
     - [Mo-Alsehli](/templates/Mo-Alsehli.md)
     - [mr-mib](/templates/mr-mib.md)
+    - [meisun0107](/templates/meisun0107.md)
+    - [MedinaPedroDev](/templates/MedinaPedroDev.md)
+    - [megha-ranjith](/templates/megha-ranjith.md)
   - N
     - [naisofly](/templates/naisofly.md)
     - [nasreekar](/templates/nasreekar.md)
@@ -290,6 +320,9 @@
     - [nuhmanpk](/templates/nuhmanpk.md)
     - [Null3000](/templates/null3000.md)
     - [N3dal](/templates/N3dal.md)
+    - [Namnika](/templates/Namnika.md)
+    - [neerajhariyale](/templates/neerajhariyale.md)
+    - [noelsj007](/templates/noelsj007.md)
   - O
     - [oHTGo](/templates/oHTGo.md)
     - [OmkarPathak](/templates/OmkarPathak.md)
@@ -318,7 +351,9 @@
     - [pulkit-30](/templates/pulkit-30.md)
     - [PushpneetSingh](/templates/PushpneetSingh.md)
     - [PrasannaBrabourame](/templates/prasannabrabourame.md)
-  - Q
+    - [pathak-arpita](/templates/pathak-arpita.md)
+    - [pivettamarcos](/templates/pivettamarcos.md)
+    - [PranavArya37](/templates/PranavArya37.md)
   - R
     - [rafnixg](/templates/rafnixg.md)
     - [rahulkarda](/templates/rahulkarda.md)
@@ -335,6 +370,9 @@
     - [roshanlam](/templates/roshanlam.md)
     - [ruthrootz](/templates/ruthrootz.md)
     - [RResabala2015](/templates/RResabala2015.md)
+    - [royrustdev](/templates/royrustdev.md)
+    - [rashi07dashore](/templates/rashi07dashore.md)
+    - [RoberthBazan](/templates/RoberthBazan.md)
   - S
     - [Sabihashaik](/templates/Sabihashaik.md)
     - [sahil2128](/templates/sahil2128.md)
@@ -384,6 +422,13 @@
     - [shmjade](/templates/shmjade.md)
     - [supuna97](/templates/supuna97.md)
     - [supravatm](/templates/supravatm.md)
+    - [Scar1109](/templates/Scar1109.md)
+    - [Schleidens](/templates/Schleidens.md)
+    - [Sailok25](/templates/Sailok25.md)
+    - [sandofvega](/templates/sandofvega.md)
+    - [sppiyush](/templates/sppiyush.md)
+    - [sumoncse19](/templates/sumoncse19.md)
+    - [suraweera-AGSS](/templates/suraweera-AGSS.md)
   - T
     - [Taabannn](/templates/Taabannn.md)
     - [Tahanima](/templates/Tahanima.md)
@@ -406,11 +451,17 @@
     - [tonynguyenit18](/templates/tonynguyenit18.md)
     - [trinib](/templates/trinib.md)
     - [thenuka99](/templates/thenuka99.md)
+    - [Talha](/templates/Talha.md)
+    - [Temitope](/templates/Temitope.md)
+    - [Th1l1na](/templates/Th1l1na.md)
+    - [TrixiePhany](/templates/TrixiePhany.md)
   - U
     - [uannabi](/templates/uannabi.md)
     - [UjwalKandi](/templates/UjwalKandi.md)
     - [ustavosoriano](/templates/ustavosoriano.md)
     - [UjjwalSharma01](/templates/UjjwalSharma01.md)
+    - [Ujjwalb09](/templates/Ujjwalb09.md)
+    - [umeshkumarsahoo](/templates/umeshkumarsahoo.md)
   - V
     - [VatanAgnihotri](/templates/VatanAgnihotri.md) 
     - [vanzasetia](/templates/vanzasetia.md)
@@ -420,6 +471,9 @@
     - [viralbhadeshiya](/templates/viralbhadeshiya.md)
     - [vishwasnavadak](/templates/vishwasnavadak.md)
     - [VisualBean](/templates/VisualBean.md)
+    - [vedangdhuri](/templates/vedangdhuri.md)
+    - [vihi](/templates/vihi.md)
+    - [Vrivas99](/templates/Vrivas99.md)
   - W
     - [WangNingkai](/templates/WangNingkai.md)
     - [WarenGonzaga](/templates/WarenGonzaga.md)
@@ -427,19 +481,27 @@
     - [weltonfelix](/templates/weltonfelix.md)
     - [windard](/templates/windard.md)
     - [wyattowalsh](/templates/wyattowalsh.md)
+    - [walleeva2018](/templates/walleeva2018.md)
+    - [wnich](/templates/wnich.md)
   - X
     - [xcaq](/templates/xcaq.md)
     - [xiaoluoboding](/templates/xiaoluoboding.md)
     - [Xx-Ashutosh-xX](/templates/Xx-Ashutosh-xX.md)
+    - [xeno2410](/templates/xeno2410.md)
   - Y
     - [YasPHP](/templates/YasPHP.md)
     - [Yogesh](/templates/vibrantfix.md)
     - [yuebaix](/templates/yuebaix.md)
     - [yzhao062](/templates/yzhao062.md)
     - [YasinAlhadi](/templates/YasinAlhadi.md)
+    - [YuZhangWang](/templates/YuZhangWang.md)
+    - [yannik](/templates/yannik.md)
+    - [yassine-bennkhay](/templates/yassine-bennkhay.md)
   - Z
     - [ZamranxD](/templates/ZamranxD.md)
     - [zeeid](/templates/zeeid.md)
     - [zillastar](/templates/zillastar.md)
     - [zjayers](/templates/zjayers.md)
     - [zmcx16](/templates/zmcx16.md)
+    - [zephira58](/templates/zephira58.md)
+    - [Zoksss](/templates/Zoksss.md)
